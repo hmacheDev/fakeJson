@@ -1,0 +1,75 @@
+{
+  "auth": [{"token" "_aKC55h6lGqZNwX3Q5z43YBZJAynuFm1P473wqRDez0"}],
+  "map": [
+    { 
+      "city": "Casablanca", 
+      "lat": 33.5731104,
+      "lng": -7.5898434,
+      "projects": [
+        {
+          "id": 1,
+          "logo": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Online-Shopping-512.png",
+          "name": "project 1",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing!",
+          "lat": 33.5731104,
+          "lng": -7.5898434,
+          "equipments": [
+            {
+              "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Online-Shopping-512.png",
+              "label": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Online-Shopping-512.png",
+              "label": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Online-Shopping-512.png",
+              "label": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Online-Shopping-512.png",
+              "label": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Online-Shopping-512.png",
+              "label": "Lorem ipsum dolor sit amet."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "logo": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Online-Shopping-512.png",
+          "name": "project 2",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing!",
+          "lat": 33.5731104,
+          "lng": -7.5898434,
+          "equipments": [
+            {
+              "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Online-Shopping-512.png",
+              "label": "Lorem ipsum dolor sit amet."
+            },
+            {
+              "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Online-Shopping-512.png",
+              "label": "Lorem ipsum dolor sit amet."
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "logo": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Online-Shopping-512.png",
+          "name": "project 3",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing!",
+          "lat": 33.5731104,
+          "lng": -7.5898434,
+          "equipments": [
+            {
+              "icon": "https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Online-Shopping-512.png",
+              "label": "Lorem ipsum dolor sit amet."
+            }
+          ]
+        }
+      ]
+    },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
